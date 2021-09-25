@@ -1,0 +1,16 @@
+Welcome to style switcher, a side project from Tectonium
+The goal of this is to incorporate DMC styles (and 1 style i made up) into Terraria!
+
+[c/ee4444:Swordmaster] Is all about melee weapons. differen't melee types (will) do different things with this style active
+
+[c/eeee66:Trickster] Is focused on evasion, an easy to grasp style for those who aren't to good at evading attacks, not to say that it isn't a bad style or a crutch, it simply focuses on mobility and nothing else
+
+[c/4444ee:Gunslinger] Focusses on ranged weapons. Providing new and stylish ways to pelt your enemies with bullets or arrows more effectively!
+
+[c/44ee44:Royalguard] Is defense oriented, but don't be fooled by this, as it also has the most potential. It's a style that require's timing and awareness to optimize damage.
+
+[c/ffaa44:Doppelganger] Is the summoner style, either bring out a clone that attracts aggro but drains from your mana when it takes damage, or make your minions take formations.
+
+[c/ff66ff:Mastermind] Is the mage style. Manipulate magic and new ways and cause your enemies terror!
+
+
